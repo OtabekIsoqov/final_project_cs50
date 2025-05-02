@@ -1,0 +1,4 @@
+rich
+tabulate
+pytz
+ascii-magic
